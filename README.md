@@ -1,0 +1,2 @@
+# Telecommunication-project-Mobile-Phone-Data-Analysis-Using-Python-
+ This project focuses on analyzing a mobile phone dataset using Python and its data analysis libraries, particularly Pandas, NumPy, Matplotlib, and Seaborn. The objective is to explore mobile phone specifications, perform data cleaning, calculate statistical measures, and identify patterns and relationships among different numerical features.
